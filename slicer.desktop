@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=3DSlicer
+Comment=3D Slicer
+Exec=sudo /opt/slicer/Slicer ${SLICER_ARGUMENTS}
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=/opt/slicer/slicer.png
